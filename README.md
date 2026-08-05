@@ -215,8 +215,3 @@ For questions or collaboration:
 
 * GitHub: https://github.com/mousavi-hn
 * Email: mousavi.hn@gmail.com
-
-
-=======
-Working on it! Will be ready in couple of weeks!
->>>>>>> 533cf0810c768da83a30c9fe3efdd2ac100ad266

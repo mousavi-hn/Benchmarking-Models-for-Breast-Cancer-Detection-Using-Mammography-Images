@@ -1,6 +1,5 @@
 # Benchmarking-Models-for-Breast-Cancer-Detection-Using-Mammography-Images
 
-<<<<<<< HEAD
 ## Overview
 
 This project presents a comprehensive benchmarking framework for Breast tumor detection using Mammography images. It evaluates multiple deep learning architectures — including classical convolutional neural networks (CNNs) and hybrid quantum-classical models — to analyze their performance, robustness, and scalability. I used the same data for training/validating/testing for all models, to keep it fair and compare the performance of the models only. So what I was looking for was an answer to this question: we have CNNs ready at our disposal, QNNs are a new trend, is it worth it to go for hybrid QNN-CNN ? Do they give us any advantages ?

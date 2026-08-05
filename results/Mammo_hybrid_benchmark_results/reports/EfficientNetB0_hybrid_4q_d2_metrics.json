@@ -1,0 +1,16 @@
+{
+    "accuracy": 0.5756302521008403,
+    "precision": 0.581081081081081,
+    "recall_sensitivity": 0.3805309734513274,
+    "specificity": 0.752,
+    "f1_score": 0.45989304812834225,
+    "roc_auc": 0.5626902654867256,
+    "tp": 43,
+    "tn": 94,
+    "fp": 31,
+    "fn": 70,
+    "model_name": "EfficientNetB0",
+    "n_qubits": 4,
+    "q_depth": 2,
+    "training_time_sec": 2330.4854502677917
+}

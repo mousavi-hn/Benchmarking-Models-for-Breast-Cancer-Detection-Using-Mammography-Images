@@ -1,0 +1,16 @@
+{
+    "accuracy": 0.6134453781512605,
+    "precision": 0.5963302752293578,
+    "recall_sensitivity": 0.5752212389380531,
+    "specificity": 0.648,
+    "f1_score": 0.5855855855855856,
+    "roc_auc": 0.6443185840707965,
+    "tp": 65,
+    "tn": 81,
+    "fp": 44,
+    "fn": 48,
+    "model_name": "DenseNet201",
+    "n_qubits": 8,
+    "q_depth": 2,
+    "training_time_sec": 1862.689349412918
+}

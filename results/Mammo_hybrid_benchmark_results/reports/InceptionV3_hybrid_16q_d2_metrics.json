@@ -1,0 +1,16 @@
+{
+    "accuracy": 0.5714285714285714,
+    "precision": 0.5544554455445545,
+    "recall_sensitivity": 0.49557522123893805,
+    "specificity": 0.64,
+    "f1_score": 0.5233644859813084,
+    "roc_auc": 0.608070796460177,
+    "tp": 56,
+    "tn": 80,
+    "fp": 45,
+    "fn": 57,
+    "model_name": "InceptionV3",
+    "n_qubits": 16,
+    "q_depth": 2,
+    "training_time_sec": 2283.773607969284
+}

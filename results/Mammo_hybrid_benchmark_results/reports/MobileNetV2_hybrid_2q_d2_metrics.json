@@ -1,0 +1,16 @@
+{
+    "accuracy": 0.5756302521008403,
+    "precision": 0.6,
+    "recall_sensitivity": 0.3185840707964602,
+    "specificity": 0.808,
+    "f1_score": 0.4161849710982659,
+    "roc_auc": 0.6281769911504425,
+    "tp": 36,
+    "tn": 101,
+    "fp": 24,
+    "fn": 77,
+    "model_name": "MobileNetV2",
+    "n_qubits": 2,
+    "q_depth": 2,
+    "training_time_sec": 1499.0000097751617
+}

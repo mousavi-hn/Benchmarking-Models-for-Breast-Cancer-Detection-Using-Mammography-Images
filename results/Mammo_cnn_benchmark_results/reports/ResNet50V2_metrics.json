@@ -1,0 +1,14 @@
+{
+    "accuracy": 0.6008403361344538,
+    "precision": 0.7142857142857143,
+    "recall_sensitivity": 0.26548672566371684,
+    "specificity": 0.904,
+    "f1_score": 0.3870967741935484,
+    "roc_auc": 0.6353982300884955,
+    "tp": 30,
+    "tn": 113,
+    "fp": 12,
+    "fn": 83,
+    "model_name": "ResNet50V2",
+    "training_time_sec": 1695.419098854065
+}

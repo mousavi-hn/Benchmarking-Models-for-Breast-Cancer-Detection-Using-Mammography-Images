@@ -87,7 +87,7 @@ pip install -r requirements.txt
 * Place images in:
 
 ```
-data/Mammography_Images/
+images/Mammography_Images/
     ├── yes/
     ├── no/
 ```
